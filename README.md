@@ -10,9 +10,7 @@
 
 Pause - Space.
 
-
 Exit - esc.
-
 
 Move snake - up,down,left,right arrow.
 
