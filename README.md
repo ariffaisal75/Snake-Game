@@ -7,11 +7,8 @@
 3. Here you are provided with 3 lives. 
 4. Your life will decrease as you hit the wall or snake's body.
 5. You can pause the game in its middle by pressing any key.
-
-Pause - Space.
-
-Exit - esc.
-
-Move snake - up,down,left,right arrow.
+6. Press space to pause.
+7. press esc to exit.
+8. Use arrow keys to move the snake.
 
 
